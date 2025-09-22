@@ -1,0 +1,14 @@
+c:\LabsOOP\LabOOP02\bin\Debug\net9.0\LabOOP02.exe
+c:\LabsOOP\LabOOP02\bin\Debug\net9.0\LabOOP02.deps.json
+c:\LabsOOP\LabOOP02\bin\Debug\net9.0\LabOOP02.runtimeconfig.json
+c:\LabsOOP\LabOOP02\bin\Debug\net9.0\LabOOP02.dll
+c:\LabsOOP\LabOOP02\bin\Debug\net9.0\LabOOP02.pdb
+c:\LabsOOP\LabOOP02\obj\Debug\net9.0\LabOOP02.GeneratedMSBuildEditorConfig.editorconfig
+c:\LabsOOP\LabOOP02\obj\Debug\net9.0\LabOOP02.AssemblyInfoInputs.cache
+c:\LabsOOP\LabOOP02\obj\Debug\net9.0\LabOOP02.AssemblyInfo.cs
+c:\LabsOOP\LabOOP02\obj\Debug\net9.0\LabOOP02.csproj.CoreCompileInputs.cache
+c:\LabsOOP\LabOOP02\obj\Debug\net9.0\LabOOP02.dll
+c:\LabsOOP\LabOOP02\obj\Debug\net9.0\refint\LabOOP02.dll
+c:\LabsOOP\LabOOP02\obj\Debug\net9.0\LabOOP02.pdb
+c:\LabsOOP\LabOOP02\obj\Debug\net9.0\LabOOP02.genruntimeconfig.cache
+c:\LabsOOP\LabOOP02\obj\Debug\net9.0\ref\LabOOP02.dll
